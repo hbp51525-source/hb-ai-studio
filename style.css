@@ -575,4 +575,34 @@ textarea {
   .poster-icon {
     font-size: 48px;
   }
+
+  .page-content {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px 20px;
+  line-height: 1.8;
+}
+
+.page-content h2 {
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.page-content h3 {
+  color: #b9a7ff;
+  margin-top: 28px;
+}
+
+.page-content p,
+.page-content li {
+  color: #d7d7e5;
+}
+
+.page-content a {
+  color: #8ea7ff;
+}
+
+.page-content ul {
+  padding-left: 25px;
+}
 }
